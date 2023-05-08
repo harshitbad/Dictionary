@@ -1,2 +1,2 @@
 # Dictionary
-This is basic Dictionary which I created using HTML , CSS and JavaScript. In this dictionary app, you can search any existing word and get the meaning, example, synonyms, etc. of the searched word.
+This is basic Dictionary which I created using HTML , CSS and JavaScript. In this dictionary app, you can search any existing word and get the meaning, example, synonyms, etc. of the searched word.In this user can search for any words and then after call an api for that word then it will show the result which include meaning example and synonyms of that word. Also It plays sound of that word. And if that word can not found in our dictionary then it will display that word is not found in our dictionary. 
